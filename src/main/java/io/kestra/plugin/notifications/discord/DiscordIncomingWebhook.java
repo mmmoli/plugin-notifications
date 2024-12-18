@@ -77,7 +77,7 @@ import java.net.URI;
                         "embeds": [
                             {
                                 "title": "Hello from Kestra",
-                                "color": 16777215
+                                "color": 16777215,
                                 "description": "This is a test message from Kestra",
                                 "footer": {
                                     "text": "Footer text"
